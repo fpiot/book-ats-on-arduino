@@ -3,15 +3,15 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to ATS programming on Arduino's documentation!
-======================================================
+Book: ATS programming on Arduino
+================================
 
 Contents:
 
 .. toctree::
    :maxdepth: 2
 
-
+   intall_and_setup
 
 Indices and tables
 ==================
