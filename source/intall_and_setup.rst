@@ -6,8 +6,6 @@ Contents:
 .. toctree::
    :maxdepth: 3
 
-   intall_and_setup
-
 ATS2 (ATS/Postiats) compiler
 ----------------------------
 
